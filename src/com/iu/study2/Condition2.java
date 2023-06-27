@@ -3,7 +3,7 @@ package com.iu.study2;
 public class Condition2 {
 	public static void main(String[] args) {
 		//Git Test
-		
+		// study1에서 작성함
 		/* 단일 IF문 : 두개 중 하나를 선택
 		 * IF - ELSE 문
 		    IF(조건식){

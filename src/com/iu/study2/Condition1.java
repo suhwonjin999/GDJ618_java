@@ -62,7 +62,8 @@ public class Condition1 {
 
 		System.out.println("평균은: " + avg);
 		
-		/* 변수 선언은 IF문 내에 쓸 수 없다. 
+		/* IF문 내에 선언한 변수는 IF문 안에서만 사용 가능하다. 
+		 * IF문 밖에서 변수를 사용하려면, 무조건 IF문 밖에서만 변수를 선언해야 함!
 		*/
 //		String result="";  
 		String result="F";

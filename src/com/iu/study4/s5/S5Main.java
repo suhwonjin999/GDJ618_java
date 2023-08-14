@@ -17,6 +17,7 @@ public class S5Main {
 		StaticTest.staticNum=20;
 		
 		//staticTest 객체 생성 : 클래스명.메서드명();
+		// 메서드를 호출함.
 		StaticTest.staticMethod();
 		
 		// 클래스 변수를 사용하는 방법 : 클래스명.변수명 
